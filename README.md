@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sahiladit
-- 👀 I’m interested in coding ,playing chess.
-- 🌱 I’m currently learning MERN stack and C++
-- 📫 How to reach me from linked https://www.linkedin.com/in/sahiladit/
-- 😄 Pronouns: He/Him
+👋 Hi, I’m @sahiladit  
+- 👀 Passionate about coding and problem-solving. I also enjoy playing chess.  
+- 🚀 Proficient in MERN stack and currently diving deep into AI.  
+- 🔍 Exploring AI, automation, and software development.  
+- 📫 Connect with me on LinkedIn: [Sahil Adit](https://www.linkedin.com/in/sahiladit/)  
+- 😄 Pronouns: He/Him  
 
 <!---
 sahiladit/sahiladit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
