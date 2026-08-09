@@ -1,2 +1,2 @@
-If it works, don’t touch it.  
-If it doesn’t… add print statements.
+I was told coding was a good career.
+Unfortunately, I like computers.
